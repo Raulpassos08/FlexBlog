@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+}
+.cabeçalho {background-color: rgb(10, 10, 94);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-variant: small-caps ;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+            }  
+.cabeçalho-2 {
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    justify-content: space-around;
+    padding: 40px;
+}  
+.flex-blog {
+    font-family:Arial;
+    font-size: 40px;
+}
+.sobre-1{
+   padding-top: 40px;
+   font-size: 20px;
+  
+} 
+.produtos {
+    padding-top: 40px;
+    font-size: 20px;
+}
+.preço {padding-top: 40px;
+    font-size: 20px;
+}
+.qualidade {padding-top: 40px;
+    font-size: 20px;
+}
+.informações {
+    display: flex; 
+    margin-top: 50px;
+    margin-left: 180px;
+    margin-bottom: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+.principal-2 {
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;  
+    padding-top: 40px;
+}
+.sobre {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.maluco {
+    display: flex;
+    border-top: 2px solid blue;
+    margin-left: 180px;
+    margin-right: 180px;
+    
+}
+.foto-1 {
+    margin-top: 60px;
+    padding-left: 20px;
+}
+.foto-2 {
+    margin-top: 60px;
+}  
+.lista {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 60px;
+    font-size: 30px;
+    list-style: none;
+} 
